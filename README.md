@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Andrew Dai, a senior majoring in Computer Science and Math at UW-Madison.
+
+- 🔭 I’m currently working on caching research regarding AWS.
+- ⚡ Fun fact: I play the piano :musical_keyboard: (not as much nowadays) 
+
 <!--
 **AndrewDai6/AndrewDai6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
