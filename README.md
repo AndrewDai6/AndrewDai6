@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Andrew Dai, a senior majoring in Computer Science and Math at UW-Madison.
+I'm Andrew Dai, a first year master's student at the INI at CMU, with a focus in computer systems.
 
-- 🔭 I’m currently working on caching research regarding AWS.
 - ⚡ Fun fact: I play the piano :musical_keyboard: (not as much nowadays) 
 
 <!--
