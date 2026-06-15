@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew Dai, a first year master's student at the INI at CMU, with a focus in computer systems.
+I'm Andrew Dai, MSIN @ CMU, with a focus in computer systems and AI/ML.
 
 - ⚡ Fun fact: I play the piano :musical_keyboard: (not as much nowadays) 
 
